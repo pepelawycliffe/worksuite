@@ -12,15 +12,13 @@ Super Admin<br><br>
 Email: superadmin@example.com<br>
 
 Password:123456
-
                 
-Admin
+Admin<br><br>
 
 Email: admin@example.com<br>
 
 Password:123456
-
-Employee
+Employee<br>
 
 Email: employee@example.com<br>
 
