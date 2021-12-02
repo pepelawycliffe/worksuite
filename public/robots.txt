@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /task-share/*
+Disallow: /contract/*
+Disallow: /estimate/*
+Disallow: /taskboard-data/*
+Disallow: /taskboard/*
+Disallow: /gantt-chart-data/*
+Disallow: /gantt-chart/*
+Disallow: /proposal/*
