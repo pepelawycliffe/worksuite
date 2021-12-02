@@ -17,7 +17,7 @@ Admin<br><br>
 
 Email: admin@example.com<br>
 
-Password:123456
+Password:123456<br>
 Employee<br><br>
 
 Email: employee@example.com<br>
