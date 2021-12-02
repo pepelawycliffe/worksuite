@@ -28,6 +28,6 @@ Password:123456
 
 Client
 
-Email: client@example.com
+Email: client@example.com<br>
 
 Password:123456
