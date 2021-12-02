@@ -16,7 +16,7 @@ Password:123456
                 
 Admin
 
-Email: admin@example.com
+Email: admin@example.com<br>
 
 Password:123456
 
