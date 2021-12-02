@@ -7,7 +7,7 @@ Worksuite is a project management software written in Laravel 5.4 (PHP Framework
 <br>
 Login details are<br><br>
  
-Super Admin
+Super Admin<br><br>
 
 Email: superadmin@example.com<br>
 
