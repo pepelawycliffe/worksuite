@@ -54,3 +54,10 @@ Password:123456<br>
 <img src="https://github.com/pepelawycliffe/worksuite/blob/main/worksuite-screenshot/3.png" width="1000">
 <img src="https://github.com/pepelawycliffe/worksuite/blob/main/worksuite-screenshot/4.png" width="1000">
 <img src="https://github.com/pepelawycliffe/worksuite/blob/main/worksuite-screenshot/5.png" width="1000">
+<img src="https://github.com/pepelawycliffe/worksuite/blob/main/worksuite-screenshot/6.png" width="1000">
+<img src="https://github.com/pepelawycliffe/worksuite/blob/main/worksuite-screenshot/7.png" width="1000">
+<img src="https://github.com/pepelawycliffe/worksuite/blob/main/worksuite-screenshot/8.png" width="1000">
+<img src="https://github.com/pepelawycliffe/worksuite/blob/main/worksuite-screenshot/9.png" width="1000">
+<img src="https://github.com/pepelawycliffe/worksuite/blob/main/worksuite-screenshot/10.png" width="1000">
+
+
