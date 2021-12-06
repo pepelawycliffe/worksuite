@@ -46,5 +46,5 @@ Email: client@example.com<br>
 
 Password:123456<br>
 
-...................................................screenshot....................................................
+...................................................screenshot....................................................<br>
 <img src="https://github.com/pepelawycliffe/worksuite/blob/main/worksuite-screenshot/1.png" width="1000">
